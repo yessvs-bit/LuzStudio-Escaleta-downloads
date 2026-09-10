@@ -8,7 +8,7 @@ Usá siempre la versión más reciente disponible en la sección **Releases**.
 
 ## Versión actual
 
-- [Descargar LuzStudio Escaleta 0.2.0-preview.6 para Windows](instaladores/LuzStudio-Escaleta-Setup-0.2.0-preview.6.exe)
-- SHA-256: `DE40912201E059B99EDAECEE1B127C75282FAAFB0D3C668C86215ADAC0467D02`
+- [Descargar LuzStudio Escaleta 0.2.0-preview.7 para Windows](instaladores/LuzStudio-Escaleta-Setup-0.2.0-preview.7.exe)
+- SHA-256: `1C16612C8383AEF3570EC97C37E45C0D85BD3C7A396BDF7A8F6263AE48B547FC`
 
-Incluye **Copiar ID para LSI** en la ficha de cada obra.
+Incluye la importación selectiva de archivos `.lseideas` desde LuzStudio Ideas, asignación a una obra, tipos, etiquetas y control de UUID duplicados.
