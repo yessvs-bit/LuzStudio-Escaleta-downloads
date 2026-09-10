@@ -8,7 +8,7 @@ Usá siempre la versión más reciente disponible en la sección **Releases**.
 
 ## Versión actual
 
-- [Descargar LuzStudio Escaleta 0.2.0-preview.7 para Windows](instaladores/LuzStudio-Escaleta-Setup-0.2.0-preview.7.exe)
-- SHA-256: `1C16612C8383AEF3570EC97C37E45C0D85BD3C7A396BDF7A8F6263AE48B547FC`
+- [Descargar LuzStudio Escaleta 0.2.0-preview.8 para Windows](instaladores/LuzStudio-Escaleta-Setup-0.2.0-preview.8.exe)
+- SHA-256: `61B37168DB2D92FD0144B767B8E9D9DCEDC549AC7C1E0D77FCE59DE5F08C6913`
 
-Incluye la importación selectiva de archivos `.lseideas` desde LuzStudio Ideas, asignación a una obra, tipos, etiquetas y control de UUID duplicados.
+Incluye un editor independiente para crear ideas, importación de `.lseideas` o `.json` y selección explícita del libro de destino dentro de una saga.
