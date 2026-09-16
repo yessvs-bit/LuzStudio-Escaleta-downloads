@@ -8,7 +8,16 @@ Usá siempre la versión más reciente disponible en la sección **Releases**.
 
 ## Versión actual
 
-- [Descargar LuzStudio Escaleta 1.0.0 para Windows](instaladores/LuzStudio-Escaleta-Setup-1.0.0.exe)
-- SHA-256: `310F4F40CB8A1571490ECA870B0C5725427E8B866F2DBE5E57A4B6FA3069950C`
+- [Descargar LuzStudio Escaleta 1.0.6 para Windows](https://github.com/yessvs-bit/LuzStudio-Escaleta-downloads/releases/download/v1.0.6/LuzStudio-Escaleta-Setup-1.0.6.exe)
+- SHA-256: `1A289748DD9A63522C9A57F9F18C5BDFCCBCDE6C8C019070B3F29EC1092F6C61`
 
-Primera versión estable. Incluye el Semillero global unificado y filtrable por obra, importación desde LuzStudio Ideas, historial restaurable, Línea temporal visual y las herramientas de planificación, cronología y calendarios de LSE.
+## Novedades de 1.0.6
+
+- El Semillero global puede leer una carpeta local sincronizada por LuzStudio Ideas.
+- Incorpora UUID nuevos y revisiones con `updatedAt` posterior, conservando el historial de la versión reemplazada.
+- LSE nunca modifica, mueve ni elimina los paquetes de la carpeta del celular.
+- Incluye una acción manual para buscar ideas nuevas cuando quieras.
+
+El instalador todavía no posee firma digital y Windows puede mostrar una advertencia de SmartScreen. Las actualizaciones no se instalan automáticamente.
+
+[Ver todas las versiones publicadas](https://github.com/yessvs-bit/LuzStudio-Escaleta-downloads/releases).
